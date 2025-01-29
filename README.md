@@ -1,6 +1,6 @@
 # Task 1- Student-Grade-Tracker
 # Name :- Shreya Kulbhushan Patwadkar
-# Company Name: Codsoft
+# Company Name: CodSoft
 # Intern Id: ID: ID: CS25NY379223 
 # Internship Domain: Java Programming
 # Description:
